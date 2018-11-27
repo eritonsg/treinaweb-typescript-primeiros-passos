@@ -1,5 +1,5 @@
 /*
-   Operador Spread (...)
+   Decompondo objetos com funções e parâmetros opcionais
    Composição ou Construção de objetos
 */ 
 let primeiroArray: number[] = [1, 2, 3];
